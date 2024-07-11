@@ -1,5 +1,5 @@
 <configuration>
-    <property name="LOG_ROOT" value="/work/logs/"/>
+    <property name="LOG_ROOT" value="./logs/"/>
     <property name="LOG_FILENAME" value="application"/>
     <property name="LOG_MAXFILESIZE" value="50MB"/>
     <property name="LOG_MAXHISTORY" value="30"/>
